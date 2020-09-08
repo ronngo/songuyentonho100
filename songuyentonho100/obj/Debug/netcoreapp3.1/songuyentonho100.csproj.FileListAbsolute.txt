@@ -1,0 +1,12 @@
+C:\Users\ronng\source\repos\songuyentonho100\songuyentonho100\bin\Debug\netcoreapp3.1\songuyentonho100.exe
+C:\Users\ronng\source\repos\songuyentonho100\songuyentonho100\bin\Debug\netcoreapp3.1\songuyentonho100.deps.json
+C:\Users\ronng\source\repos\songuyentonho100\songuyentonho100\bin\Debug\netcoreapp3.1\songuyentonho100.runtimeconfig.json
+C:\Users\ronng\source\repos\songuyentonho100\songuyentonho100\bin\Debug\netcoreapp3.1\songuyentonho100.runtimeconfig.dev.json
+C:\Users\ronng\source\repos\songuyentonho100\songuyentonho100\bin\Debug\netcoreapp3.1\songuyentonho100.dll
+C:\Users\ronng\source\repos\songuyentonho100\songuyentonho100\bin\Debug\netcoreapp3.1\songuyentonho100.pdb
+C:\Users\ronng\source\repos\songuyentonho100\songuyentonho100\obj\Debug\netcoreapp3.1\songuyentonho100.AssemblyInfoInputs.cache
+C:\Users\ronng\source\repos\songuyentonho100\songuyentonho100\obj\Debug\netcoreapp3.1\songuyentonho100.AssemblyInfo.cs
+C:\Users\ronng\source\repos\songuyentonho100\songuyentonho100\obj\Debug\netcoreapp3.1\songuyentonho100.csproj.CoreCompileInputs.cache
+C:\Users\ronng\source\repos\songuyentonho100\songuyentonho100\obj\Debug\netcoreapp3.1\songuyentonho100.dll
+C:\Users\ronng\source\repos\songuyentonho100\songuyentonho100\obj\Debug\netcoreapp3.1\songuyentonho100.pdb
+C:\Users\ronng\source\repos\songuyentonho100\songuyentonho100\obj\Debug\netcoreapp3.1\songuyentonho100.genruntimeconfig.cache
